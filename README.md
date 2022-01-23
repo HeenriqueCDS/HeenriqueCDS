@@ -3,4 +3,4 @@ formado em Informática para Internet pela Etec de Francisco Morato!
 
 
 🚀 Tenho conhecimentos em:
-HTML, CSS, JavaScript, TypeScript, ReactJS e NodeJS!
+HTML, CSS, JavaScript, TypeScript, ReactJS, NextJS e NodeJS!
