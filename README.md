@@ -1,4 +1,4 @@
-🤙 Hello! My name is Henrique, I am a Junior Software Engineer at MZ
+Hello! My name is Henrique, I am Software Engineer at MZ, coding since 2015
 
 
 🚀 Technologies: React & NodeJS
