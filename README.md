@@ -3,7 +3,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=heenriquecds" alt="Henrique's Profile Views" />
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white&label=henrique-carvalho)](https://www.linkedin.com/in/henriquecds/)
-[![heenriquecds@gmail.com](https://img.shields.io/badge/-heenrqiuecds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heenrqiuecds@gmail.com)](mailto:heenrqiuecds@gmail.com)
+[![heenriquecds@gmail.com](https://img.shields.io/badge/-heenriquecds@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:heenrqiuecds@gmail.com)](mailto:heenriquecds@gmail.com)
 
 - 🔥 **Software Engineer** and **Back-end Specialist**
 
