@@ -11,7 +11,7 @@
 
 - ✨ Passionate about fast, pragmatic and **scalable** software
 
-- 🔭 Graduated onn **System Analysis and Development** at [FIAP](https://www.linkedin.com/school/fiap/)
+- 🔭 Graduated on **System Analysis and Development** at [FIAP](https://www.linkedin.com/school/fiap/)
 
 ## Professional Experience
   
