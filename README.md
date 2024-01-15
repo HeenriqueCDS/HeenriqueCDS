@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=550&height=32&lines=Hi+there.+My+name+is+Henrique!)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&repeat=false&random=false&width=600&height=32&lines=Hi+there.+My+name+is+Henrique!)](https://git.io/typing-svg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=heenriquecds" alt="Henrique's Profile Views" />
 
