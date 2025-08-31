@@ -18,7 +18,7 @@
 <a href="#"><img src="./assets/mz.jpeg" align="left" width="70" height="70" alt="MZ Group Logo"/></a>
 **Full-stack Software Engineer** \
 MZ Group · Full-time \
-<i>Feb. 2022</i> - <i>Present</i>
+<i>Aug. 2022</i> - <i>Aug. 2025</i>
 
 <br>
 
