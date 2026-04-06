@@ -67,6 +67,7 @@ Lutz - Academic Management Platform · Independent \
 ![GraphQL](https://img.shields.io/badge/graphql-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232f3e.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GoLang](https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![postgres](https://img.shields.io/badge/Postgres-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heenriquecds&theme=midnight-purple&layout=compact&langs_count=8&card_width=350&hide_border=true)
