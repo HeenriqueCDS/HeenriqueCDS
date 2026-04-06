@@ -16,15 +16,15 @@
 ## Professional Experience
 
 <a href="https://www.tpro.io"><img src="./assets/tpro.svg" align="left" width="70" height="70" alt="MZ Group Logo"/></a>
-**Full-stack Software Engineer** \
+**Software Engineer** \
 MZ Group · Full-time \
-<i>Aug. 2022</i> - <i>Aug. 2025</i>
+<i>Dec. 2025</i> - <i>Now</i>
 
 <br>
 
   
 <a href="https://www.mzgroup.com"><img src="./assets/mz.jpeg" align="left" width="70" height="70" alt="MZ Group Logo"/></a>
-**Full-stack Software Engineer** \
+**Software Engineer** \
 MZ Group · Full-time \
 <i>Aug. 2022</i> - <i>Aug. 2025</i>
 
