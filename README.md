@@ -15,9 +15,9 @@
 
 ## Professional Experience
 
-<a href="https://www.tpro.io"><img src="./assets/tpro.png" align="left" width="70" height="70" alt="MZ Group Logo"/></a>
+<a href="https://www.tpro.io"><img src="./assets/tpro.png" align="left" width="70" height="70" alt="T-Pro Logo"/></a>
 **Software Engineer** \
-MZ Group · Full-time \
+T-Pro · Full-time \
 <i>Dec. 2025</i> - <i>Now</i>
 
 <br>
