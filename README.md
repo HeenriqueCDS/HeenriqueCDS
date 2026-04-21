@@ -33,7 +33,7 @@ MZ Group · Full-time \
 <a href="https://www.applutz.com"><img src="./assets/lutz.png" align="left" width="70" height="70" alt="Lutz-pic"/></a>
 **Software Engineer and Co-founder** \
 Lutz - Academic Management Platform · Independent \
-<i>Jan. 2021</i> - <i>Present</i>
+<i>Jan. 2021</i> - <i>Feb. 2022</i>
 
 <br>
 
